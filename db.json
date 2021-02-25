@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "number": "089872378347" },
+    { "id": 2, "number": "089985968343" },
+    { "id": 3, "number": "081238787987" },
+  ],
+  "comments": [
+    { "id": 1, "desc": "some desc", "postId": 1 },
+    { "id": 2, "desc": "some desc", "postId": 2 }
+  ],
+  "profile": {
+    "name": "Zapper"
+  }
+}
